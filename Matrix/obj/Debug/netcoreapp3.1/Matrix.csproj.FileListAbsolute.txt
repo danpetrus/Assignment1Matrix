@@ -1,0 +1,13 @@
+C:\Users\petrusm\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\petrusm\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\petrusm\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\petrusm\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\petrusm\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\petrusm\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\petrusm\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\petrusm\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\petrusm\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\petrusm\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\petrusm\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\petrusm\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\petrusm\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
